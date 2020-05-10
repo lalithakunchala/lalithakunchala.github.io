@@ -1,0 +1,79 @@
+.body{
+    font-family: open Sans;
+    color:darkblue;
+    
+  }
+  
+  .imag{
+    background-color:#75b0f4;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFYzJn6-9RzHsPF8PT9t4br80e5nEU2qR1w2y-JIZeqe6E95Td&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+  
+  .name{
+    color:white;
+  }
+  .profile {
+      border: 10px solid white;
+      overflow: hidden;
+      overflow-x: hidden;
+      overflow-y: hidden;
+      width: 12rem;
+      height: 12rem;
+      border-radius: 50%;
+  }
+  
+  .height_img{
+    height:80px;
+    width:80px;
+    border-radius: 50%;
+    border: 6px solid gold;
+  }
+  .blue_color{
+    color:darkblue;
+  }
+  
+  .dot{
+    margin-top:150px;
+    height:25px;
+    width:25px;
+    border-radius:50%;
+    background-color: white;
+  }
+  
+  .border_blue{
+    background-color: #ffc400;
+  }
+  
+  img{
+    border:yellow;
+  }
+  
+  .halves-circle{
+    color: #FFB300;
+    height: 170px;
+    width: 170px;
+    border: 20px solid;
+    border-radius: 50%;
+    border-color: #FFB300 #FFB300 #FFEB3B #FFEB3B;
+    transform: rotate(0deg);
+  }
+  
+  .circle{
+    color:#FFB300;
+    height: 170px;
+    width: 170px;
+    border: 20px solid;
+    border-radius: 50%;
+    border-color: #FFB300 #FFEB3B #FFEB3B #FFB300;
+    transform: rotate(0deg);
+  }
+  
+  .icon_color {
+      color: white;
+      background-color: gold;
+  }
+  .icon_white{
+    color: white;
+  }
