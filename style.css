@@ -111,3 +111,7 @@ body{
   .grey{
     color:grey;
   }
+
+  .resume:hover{
+    background-color: white;
+  }
