@@ -6,6 +6,7 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif,open Sans;
     color:darkblue;
     
+    
   }
   
   .imag{
@@ -113,5 +114,5 @@ body{
   }
 
   .resume:hover{
-    background-color: white;
+    background-color: rgb(39, 156, 182);
   }
