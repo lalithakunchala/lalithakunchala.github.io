@@ -23,7 +23,7 @@ body{
     font-size: 60px;
   }
   .profile {
-      border: 10px solid white;
+      border: 10px solid rgb(235, 222, 222);
       overflow: hidden;
       overflow-x: hidden;
       overflow-y: hidden;
