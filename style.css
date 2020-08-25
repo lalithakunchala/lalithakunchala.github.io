@@ -23,7 +23,7 @@ body{
     font-size: 60px;
   }
   .profile {
-      border: 10px solid rgb(235, 222, 222);
+      border: 10px solid gold;
       overflow: hidden;
       overflow-x: hidden;
       overflow-y: hidden;
@@ -47,7 +47,7 @@ body{
     height:25px;
     width:25px;
     border-radius:50%;
-    background-color:white;
+    background-color:gold;
   }
   
   .border_blue{
@@ -59,20 +59,20 @@ body{
   }
   
   .halves-circle{
-    color: #0E6E84;
+    color: goldenrod;
     height: 200px;
     width: 200px;
-    border: 20px solid #1E88E5;
+    border: 20px solid gold;
     border-radius: 50%;
     /* border-color: #FFB300 #0E6E84#FFB300 #FFEB3B #FFEB3B;
     transform: rotate(0deg); */
   }
   
   .circle{
-    color:#0E6E84;
+    color:goldenrod;
     height: 200px;
     width: 200px;
-    border: 20px solid #0E6E84;
+    border: 20px solid gold;
     border-radius: 50%;
     /* border-color: #FFB300 #FFEB3B #FFEB3B #FFB300;
     transform: rotate(0deg); */
