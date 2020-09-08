@@ -11,7 +11,7 @@ body{
   
   .imag{
     background-color:"red";
-    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQkF2Mmyq5K87PPkF-AM_Wfnx8033HKisS9XA&usqp=CAU");
+    /* background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQkF2Mmyq5K87PPkF-AM_Wfnx8033HKisS9XA&usqp=CAU"); */
     background-repeat: no-repeat;
     background-size:cover;
     /* clip-path:polygon(0 0,100% 0,100% 70%,100% 70%,0 100%) ; */
