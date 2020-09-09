@@ -19,11 +19,11 @@ body{
   }
   
   .name{
-    color:#C5EFF8;
+    color:darkblue;
     font-size: 60px;
   }
   .profile {
-      border: 10px solid gold;
+      border: 10px solid blueviolet;
       overflow: hidden;
       overflow-x: hidden;
       overflow-y: hidden;
@@ -47,7 +47,7 @@ body{
     height:25px;
     width:25px;
     border-radius:50%;
-    background-color:gold;
+    background-color:blueviolet;
   }
   
   .border_blue{
